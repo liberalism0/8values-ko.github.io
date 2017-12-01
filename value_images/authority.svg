@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="616.35575"
-     inkscape:cy="150.46772"
+     inkscape:zoom="2"
+     inkscape:cx="374.03634"
+     inkscape:cy="61.848423"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,9 +62,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:object-nodes="true"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,56 +120,6 @@
          d="m 0.72760492,18.520836 v 4.167188 c 0,1.539081 1.23904398,2.778124 2.77812498,2.778124 H 22.952604 c 1.539081,0 2.778125,-1.239043 2.778125,-2.778124 v -4.167188 z"
          id="rect5205-3-6"
          inkscape:connector-curvature="0" />
-      <g
-         id="text5173"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;letter-spacing:-0.26458332px;text-anchor:middle;opacity:1;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90944878;paint-order:normal"
-         aria-label="AUTHORITY">
-        <path
-           id="path4679"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="M 4.1017703,23.288628 3.8393036,22.662094 H 2.3915037 L 2.1290371,23.288628 H 1.5406038 L 2.840237,20.325294 h 0.5884333 l 1.2827,2.963334 z M 2.5947037,22.175261 h 1.0414 l -0.5164667,-1.2446 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4681"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 5.2323348,22.069428 q 0,0.351366 0.1989667,0.550333 0.1989666,0.198967 0.5333999,0.198967 0.3344333,0 0.5249333,-0.198967 0.1947334,-0.198967 0.1947334,-0.550333 v -1.744134 h 0.5672666 v 1.744134 q 0,0.385233 -0.1566333,0.6731 -0.1566334,0.283633 -0.4487333,0.436033 -0.2878667,0.1524 -0.6815667,0.1524 -0.3979333,0 -0.6942666,-0.1524 -0.2921,-0.1524 -0.4487333,-0.436033 -0.1566333,-0.287867 -0.1566333,-0.6731 v -1.744134 h 0.5672666 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4683"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 7.3251227,20.325294 h 2.4172332 v 0.503767 H 8.8194893 v 2.459567 h -0.5715 V 20.829061 H 7.3251227 Z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4685"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 9.8794762,20.325294 h 0.5672668 v 1.265767 h 1.477433 v -1.265767 h 0.567267 v 2.963334 h -0.567267 v -1.202267 h -1.477433 v 1.202267 H 9.8794762 Z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4687"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 14.301457,20.287194 q 0.440267,0 0.8001,0.198967 0.364067,0.198967 0.5715,0.5461 0.207433,0.347133 0.207433,0.770467 0,0.423333 -0.207433,0.7747 -0.207433,0.347133 -0.5715,0.550333 -0.359833,0.2032 -0.8001,0.2032 -0.440267,0 -0.804333,-0.2032 -0.359834,-0.2032 -0.567267,-0.550333 -0.207433,-0.351367 -0.207433,-0.7747 0,-0.423334 0.207433,-0.770467 0.207433,-0.347133 0.567267,-0.5461 0.364066,-0.198967 0.804333,-0.198967 z m 0.0085,0.508 q -0.270934,0 -0.503767,0.135467 -0.232833,0.131233 -0.3683,0.364067 -0.135467,0.2286 -0.135467,0.508 0,0.2794 0.135467,0.512233 0.1397,0.232833 0.3683,0.3683 0.232833,0.135467 0.503767,0.135467 0.2667,0 0.4953,-0.135467 0.2286,-0.135467 0.359833,-0.3683 0.135467,-0.232833 0.135467,-0.512233 0,-0.2794 -0.135467,-0.508 -0.131233,-0.232834 -0.359833,-0.364067 -0.2286,-0.135467 -0.4953,-0.135467 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4689"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 17.96792,23.288628 -0.512233,-0.8763 q -0.03387,0.0042 -0.105833,0.0042 h -0.668867 v 0.872067 h -0.567266 v -2.963334 h 1.236133 q 0.575733,0 0.889,0.2667 0.313266,0.2667 0.313266,0.753534 0,0.347133 -0.1524,0.592666 -0.148166,0.245534 -0.436033,0.3683 l 0.651933,0.982134 z m -1.286933,-1.3716 h 0.668867 q 0.321733,0 0.491066,-0.1397 0.169334,-0.1397 0.169334,-0.414867 0,-0.270933 -0.169334,-0.4064 -0.169333,-0.135467 -0.491066,-0.135467 h -0.668867 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4691"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 18.908381,20.325294 h 0.567267 v 2.963334 h -0.567267 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4693"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 19.61171,20.325294 h 2.417234 v 0.503767 h -0.922867 v 2.459567 h -0.5715 V 20.829061 H 19.61171 Z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4695"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';letter-spacing:-0.26458332px;fill:#eeeeee;fill-opacity:1;stroke-width:0.25"
-           d="m 24.54943,20.325294 -1.079499,1.9939 v 0.969434 h -0.567267 v -0.948267 l -1.1049,-2.015067 h 0.575733 l 0.808567,1.392767 0.795866,-1.392767 z"
-           inkscape:connector-curvature="0" />
-      </g>
     </g>
     <g
        style="stroke-width:0.5"
@@ -260,5 +210,31 @@
          x="-355.53735"
          y="24.113144"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46666622px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#eeeeee;fill-opacity:1;stroke-width:4.23333311">ORD</tspan></text>
+    <g
+       transform="translate(-85.595122,-58.848824)"
+       aria-label="권위 지향"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46666622px;line-height:4.23333311px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.23333311;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text191">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3.4211675,202.16924 h -4.8683331 v -1.96427 h 0.93133328 v 1.1938 H 3.4211675 Z m -2.82786654,-2.5654 v -0.762 H 2.3374342 v -4.25874 h 0.9144 v 5.82507 h -0.9144 v -0.80433 z m 1.42239994,-1.48167 q -0.4572,0.0677 -1.10066662,0.11853 -0.63499997,0.0423 -1.33773327,0.0762 v 1.4478 H -1.3455656 v -1.397 q -0.4572,0.0169 -0.8720666,0.0254 -0.4064,0.008 -0.7535333,0.008 l -0.059267,-0.7874 q 0.4910667,0 1.143,-0.0169 0.6519333,-0.0169 1.37159988,-0.0593 l 0.53339998,-0.0254 q 0.09313332,-0.44027 0.14393332,-0.8636 0.0508,-0.42333 0.0592667,-0.77047 H -2.4377655 v -0.77893 h 3.5983331 q 0,0.67733 -0.059267,1.26153 -0.059267,0.57574 -0.15239996,1.0922 0.28786666,-0.0254 0.53339996,-0.0508 0.254,-0.0339 0.4487333,-0.0677 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'제주고딕';-inkscape-font-specification:'제주고딕';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#eeeeee;fill-opacity:1;stroke-width:4.23333311"
+         id="path272" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 6.1552392,196.42884 q 0,0.18626 0.0762,0.34713 0.0762,0.16087 0.2032,0.2794 0.1354667,0.11853 0.3048,0.18627 0.1778,0.0677 0.381,0.0677 0.381,0 0.6773333,-0.254 0.2878666,-0.254 0.2878666,-0.62653 0,-0.37254 -0.2878666,-0.62654 -0.2963333,-0.254 -0.6773333,-0.254 -0.2032,0 -0.381,0.0677 -0.1693333,0.0677 -0.3048,0.18626 -0.127,0.11854 -0.2032,0.2794 -0.0762,0.16087 -0.0762,0.34714 z m 0.4826,5.47793 v -2.37067 q -0.5249333,0.0339 -1.0075333,0.0508 -0.4825999,0.008 -0.8635999,0.0169 l -0.0762,-0.79587 q 0.5164666,0 1.2022666,-0.0254 0.6857999,-0.0254 1.3800666,-0.0762 0.7111999,-0.0423 1.3461999,-0.1016 0.6434666,-0.0593 1.1006666,-0.127 l 0.093133,0.7874 q -0.4571999,0.0677 -1.0413999,0.11853 -0.5842,0.0508 -1.2107333,0.0931 v 2.42993 z m 3.4882668,0.0847 v -7.40834 h 0.9144 v 7.40834 z m -4.8852667,-5.5626 q 0,-0.36407 0.1439333,-0.6604 0.1524,-0.29634 0.4148667,-0.52494 0.2455333,-0.2286 0.5841999,-0.34713 0.3471333,-0.11853 0.7366,-0.11853 0.381,0 0.7281333,0.11853 0.3471333,0.11853 0.5841999,0.34713 0.2624667,0.2286 0.4148667,0.52494 0.1524,0.29633 0.1524,0.6604 0,0.36406 -0.1524,0.66886 -0.1524,0.29634 -0.4148667,0.52494 -0.2370666,0.22013 -0.5841999,0.33866 -0.3471333,0.11854 -0.7281333,0.11854 -0.3894667,0 -0.7366,-0.11854 -0.3386666,-0.11853 -0.5841999,-0.33866 -0.2624667,-0.2286 -0.4148667,-0.52494 -0.1439333,-0.3048 -0.1439333,-0.66886 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'제주고딕';-inkscape-font-specification:'제주고딕';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#eeeeee;fill-opacity:1;stroke-width:4.23333311"
+         id="path274" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 20.279491,194.5831 h 0.9144 v 7.40834 h -0.9144 z m -1.134533,1.2954 h -1.524 v 0.508 q 0,1.12607 0.499533,1.89654 0.499533,0.75353 1.27,1.20226 l -0.575733,0.69427 q -0.5588,-0.381 -1.016,-0.88053 -0.4572,-0.508 -0.6604,-1.0668 -0.2286,0.6096 -0.677334,1.143 -0.440266,0.52493 -1.024466,0.90593 l -0.575734,-0.64347 q 0.381,-0.23706 0.702734,-0.54186 0.3302,-0.3048 0.575733,-0.7112 0.237067,-0.4064 0.372533,-0.889 0.143934,-0.4826 0.143934,-1.0922 v -0.52494 h -1.557867 v -0.77893 h 4.047067 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'제주고딕';-inkscape-font-specification:'제주고딕';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#eeeeee;fill-opacity:1;stroke-width:4.23333311"
+         id="path276" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 25.722896,198.00364 q 0,-0.27094 -0.237067,-0.44874 -0.2286,-0.1778 -0.567266,-0.1778 -0.338667,0 -0.575734,0.1778 -0.2286,0.1778 -0.2286,0.44874 0,0.27093 0.2286,0.44873 0.237067,0.1778 0.575734,0.1778 0.338666,0 0.567266,-0.1778 0.237067,-0.1778 0.237067,-0.44873 z m -2.1082,-2.65007 v -0.77047 h 2.599266 v 0.77047 z m 1.9304,5.65573 q 0,0.14394 0.0762,0.27094 0.0762,0.13546 0.220133,0.23706 0.143933,0.11007 0.3556,0.16934 0.220133,0.0677 0.491067,0.0677 0.2794,0 0.491066,-0.0677 0.211667,-0.0593 0.3556,-0.16934 0.143934,-0.1016 0.220134,-0.23706 0.0762,-0.127 0.0762,-0.27094 0,-0.13546 -0.0762,-0.27093 -0.0762,-0.13547 -0.220134,-0.23707 -0.143933,-0.11006 -0.3556,-0.16933 -0.211666,-0.0677 -0.491066,-0.0677 -0.270934,0 -0.491067,0.0677 -0.211667,0.0593 -0.3556,0.16933 -0.143933,0.1016 -0.220133,0.23707 -0.0762,0.13547 -0.0762,0.27093 z m -2.827867,-4.55506 v -0.75354 h 4.402667 v 0.75354 z m 7.230533,0.39793 h -1.1938 v 0.762 h 1.1938 v 0.77893 h -1.1938 v 1.0668 h -0.9144 v -4.8768 h 0.9144 v 1.49014 h 1.1938 z m -3.386666,1.15147 q 0,0.2794 -0.127,0.52493 -0.118534,0.23707 -0.338667,0.42333 -0.220133,0.1778 -0.524933,0.2794 -0.296334,0.1016 -0.651933,0.1016 -0.3556,0 -0.6604,-0.1016 -0.296334,-0.1016 -0.516467,-0.2794 -0.220133,-0.18626 -0.347133,-0.42333 -0.118534,-0.24553 -0.118534,-0.52493 0,-0.2794 0.118534,-0.51647 0.127,-0.24553 0.347133,-0.42333 0.220133,-0.18627 0.516467,-0.28787 0.3048,-0.1016 0.6604,-0.1016 0.355599,0 0.651933,0.1016 0.3048,0.1016 0.524933,0.28787 0.220133,0.1778 0.338667,0.42333 0.127,0.23707 0.127,0.51647 z m -1.938867,3.00566 q 0,-0.3302 0.1524,-0.60113 0.160867,-0.27093 0.440267,-0.46567 0.2794,-0.19473 0.651933,-0.3048 0.381,-0.11006 0.821267,-0.11006 0.440266,0 0.8128,0.11006 0.381,0.11007 0.6604,0.31327 0.2794,0.19473 0.4318,0.46567 0.160866,0.27093 0.160866,0.59266 0,0.32174 -0.160866,0.59267 -0.1524,0.2794 -0.4318,0.47413 -0.2794,0.19474 -0.6604,0.3048 -0.372534,0.11007 -0.8128,0.11007 -0.440267,0 -0.821267,-0.11007 -0.372533,-0.11006 -0.651933,-0.3048 -0.2794,-0.19473 -0.440267,-0.46566 -0.1524,-0.27094 -0.1524,-0.60114 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'제주고딕';-inkscape-font-specification:'제주고딕';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#eeeeee;fill-opacity:1;stroke-width:4.23333311"
+         id="path278" />
+    </g>
   </g>
 </svg>

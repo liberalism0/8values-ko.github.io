@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "아나코 공산주의",
+        "name": "아나코 코뮤니즘",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "스탈린주의/마오쩌둥주의",
+        "name": "스탈린주의/마오주의",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "종교적 사회주의",
+        "name": "종교공산주의",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "신정적 사회주의",
+        "name": "신정주의적 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "자유지상적 사회주의",
+        "name": "자유지상주의적 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코-생디칼리즘",
+        "name": "아나코 생디칼리즘",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "좌익대중주의",
+        "name": "좌익 대중주의",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "신정적 분배주의",
+        "name": "신정주의적 분배주의",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "기독교 민주주의",
+        "name": "종교 민주주의",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코 뮤탈리즘",
+        "name": "아나코 뮤투얼리즘",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "국가적 전체주의",
+        "name": "국가주의적 전체주의",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "국제적 전체주의",
+        "name": "국제주의적 전체주의",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "기술관료제",
+        "name": "테크노크라시",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "중도주의",
+        "name": "중도주의자",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "자유주의",
+        "name": "자유주의자",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "우익대중주의",
+        "name": "우익 대중주의",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -288,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "자유지상주의적 사회주의",
+        "name": "사회적 자유지상주의",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코 이기주의",
+        "name": "아나코 에고이즘",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "전제정치",
+        "name": "독재주의",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "권위자본주의",
+        "name": "권위주의적 자본주의",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -407,14 +407,14 @@ ideologies = [
     {
         "name": "근본주의",
         "stats": {
-            "econ": 20,
+            "econ": 20,	
             "dipl": 30,
             "govt": 30,
             "scty": 5
         }
     },
     {
-        "name": "자유지상 사회주의",
+        "name": "자유지상주의적 자본주의",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "자유시장 아나키즘",
+        "name": "시장 아나키즘",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "객관주의",
+        "name": "급진적 자본주의",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "극자본주의",
+        "name": "초자본주의",
         "stats": {
             "econ": 0,
             "dipl": 40,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "아나코 자본주의",
+        "name": "아나코 캐피탈리즘",
         "stats": {
             "econ": 0,
             "dipl": 50,

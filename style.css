@@ -31,12 +31,9 @@ p.question {
     font-family: 'Noto Sans KR', 'Montserrat', sans-serif;
     font-weight: normal;
     width: 70%;
-    min-width: 500pt;
-    min-height: 144pt;
     background-color: #eeeeee;
     padding: 16pt;
     border-radius: 16pt;
-    font-size: 36pt;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,7 +67,6 @@ a {
 img.center {
     display: block;
     margin: 1em auto;
-    width: 90%;
 }
 @media screen and (max-width: 480px) {
     #start {
@@ -85,6 +81,12 @@ img.center {
         font-size: 2rem;
         line-height: 2rem;
     }
+    img.center {
+        width: 90%;
+    }
+    p.question {
+        font-size: 24pt;
+    }
 }
 @media screen and (min-width: 480px) {
     #start {
@@ -94,6 +96,12 @@ img.center {
     body {
         width: 80%;
         border-width: 20px;
+    }
+    img.center {
+        width: 50%
+    }
+    p.question {
+        font-size: 36pt;
     }
 }
 .button {

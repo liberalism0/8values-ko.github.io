@@ -68,6 +68,10 @@ img.center {
     display: block;
     margin: 1em auto;
 }
+#banner {
+    width: 100%;
+    max-width: 800px;
+}
 @media screen and (max-width: 480px) {
     #start {
         font-size: 2rem;
@@ -87,6 +91,12 @@ img.center {
     p.question {
         font-size: 24pt;
     }
+    .axis {
+        width: 30%;
+    }
+    div.text-wrapper {
+        font-size: 1em;
+    }
 }
 @media screen and (min-width: 480px) {
     #start {
@@ -94,13 +104,19 @@ img.center {
         width: 50%;
     }
     body {
-        width: 80%;
+        width: 80%;1
         border-width: 20px;
     }
     img.center {
         width: 50%
     }
     p.question {
+        font-size: 36pt;
+    }
+    .axis {
+        width: 100%;
+    }
+    div.text-wrapper {
         font-size: 36pt;
     }
 }
@@ -143,10 +159,10 @@ img.center {
     margin: -4px auto;
 }
 div.axis {
-    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
 }
 div.bar {
     height: 36pt;
@@ -165,7 +181,6 @@ div.bar {
 }
 div.text-wrapper {
     font-family: 'Jeju Gothic', 'Montserrat', sans-serif;
-    font-size: 36pt;
     line-height: 36pt;
     color: #222222;
     display: inline-block;

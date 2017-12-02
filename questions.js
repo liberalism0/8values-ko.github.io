@@ -378,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "환경 규제는 필요 불가결하다.",
+        "question": "환경 규제는 필수 불가결하다.",
         "effect": {
             "econ": 5,
             "dipl": 0,

@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "비(非)권위는​ ​의심할​ ​여지가​ ​없다.",
+        "question": "권위는 항상 의심해야 한다.",
         "effect": {
             "econ": 0,
             "dipl": 0,

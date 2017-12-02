@@ -118,6 +118,8 @@ img.center {
     }
     p.question {
         font-size: 36pt;
+        min-width: 500pt;
+        min-height: 144pt;
     }
     .axis {
         width: 100%;

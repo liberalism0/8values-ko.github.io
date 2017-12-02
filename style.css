@@ -6,7 +6,6 @@ html {
     padding: 0px;
 }
 body {
-    width: 80%;
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
@@ -14,7 +13,6 @@ body {
     border-color: #eeeeee;
     border-left-style: solid;
     border-right-style: solid;
-    border-width: 20px;
 }
 p {
     color: #444444;
@@ -48,9 +46,9 @@ p.question {
 h1 {
     color: #222222;
     font-family: 'Jeju Gothic', 'Montserrat', sans-serif;
-    font-size: 72pt;
+    font-size: 5rem;
     text-align: center;
-    line-height: 72pt;
+    line-height: 5rem;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
@@ -72,8 +70,31 @@ a {
 img.center {
     display: block;
     margin: 1em auto;
-    width: 50%;
-    min-width: 500pt;
+    width: 90%;
+}
+@media screen and (max-width: 480px) {
+    #start {
+        font-size: 2rem;
+        width: 95%;
+    }
+    h1 {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    h2 {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+}
+@media screen and (min-width: 480px) {
+    #start {
+        font-size: 36px;
+        width: 50%;
+    }
+    body {
+        width: 80%;
+        border-width: 20px;
+    }
 }
 .button {
     background-color: #2196f3;
@@ -82,8 +103,7 @@ img.center {
     border-radius: 8pt;
     color: white;
     padding: 8pt;
-    width: 50%;
-    min-width: 500pt;
+    width: 80%;
     text-align: center;
     text-decoration: none;
     display: block;

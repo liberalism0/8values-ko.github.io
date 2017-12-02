@@ -94,17 +94,23 @@ img.center {
     .axis {
         width: 30%;
     }
+    .bar {
+        height: 5vh;
+    }
     div.text-wrapper {
         font-size: 1em;
     }
+    .img-something {
+        height: 16vh;
+    }
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 481px) {
     #start {
         font-size: 36px;
         width: 50%;
     }
     body {
-        width: 80%;1
+        width: 80%;
         border-width: 20px;
     }
     img.center {
@@ -116,8 +122,14 @@ img.center {
     .axis {
         width: 100%;
     }
+    .bar {
+        height: 36pt;
+    }
     div.text-wrapper {
         font-size: 36pt;
+    }
+    .img-something {
+        height: 128pt;
     }
 }
 .button {
@@ -165,7 +177,6 @@ div.axis {
     margin: 0 auto;
 }
 div.bar {
-    height: 36pt;
     line-height: 36pt;
     padding: 8pt;
     margin-top: 4pt;

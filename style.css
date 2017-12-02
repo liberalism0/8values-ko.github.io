@@ -6,7 +6,6 @@ html {
     padding: 0px;
 }
 body {
-    width: 80%;
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
@@ -14,7 +13,6 @@ body {
     border-color: #eeeeee;
     border-left-style: solid;
     border-right-style: solid;
-    border-width: 20px;
 }
 p {
     color: #444444;
@@ -33,12 +31,9 @@ p.question {
     font-family: 'Noto Sans KR', 'Montserrat', sans-serif;
     font-weight: normal;
     width: 70%;
-    min-width: 500pt;
-    min-height: 144pt;
     background-color: #eeeeee;
     padding: 16pt;
     border-radius: 16pt;
-    font-size: 36pt;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,9 +43,9 @@ p.question {
 h1 {
     color: #222222;
     font-family: 'Jeju Gothic', 'Montserrat', sans-serif;
-    font-size: 72pt;
+    font-size: 5rem;
     text-align: center;
-    line-height: 72pt;
+    line-height: 5rem;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
@@ -72,8 +67,70 @@ a {
 img.center {
     display: block;
     margin: 1em auto;
-    width: 50%;
-    min-width: 500pt;
+}
+#banner {
+    width: 100%;
+    max-width: 800px;
+}
+@media screen and (max-width: 480px) {
+    #start {
+        font-size: 2rem;
+        width: 95%;
+    }
+    h1 {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    h2 {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+    img.center {
+        width: 90%;
+    }
+    p.question {
+        font-size: 24pt;
+    }
+    .axis {
+        width: 30%;
+    }
+    .bar {
+        height: 5vh;
+    }
+    div.text-wrapper {
+        font-size: 1em;
+    }
+    .img-something {
+        height: 16vh;
+    }
+}
+@media screen and (min-width: 481px) {
+    #start {
+        font-size: 36px;
+        width: 50%;
+    }
+    body {
+        width: 80%;
+        border-width: 20px;
+    }
+    img.center {
+        width: 50%
+    }
+    p.question {
+        font-size: 36pt;
+    }
+    .axis {
+        width: 100%;
+    }
+    .bar {
+        height: 36pt;
+    }
+    div.text-wrapper {
+        font-size: 36pt;
+    }
+    .img-something {
+        height: 128pt;
+    }
 }
 .button {
     background-color: #2196f3;
@@ -82,8 +139,7 @@ img.center {
     border-radius: 8pt;
     color: white;
     padding: 8pt;
-    width: 50%;
-    min-width: 500pt;
+    width: 80%;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -115,13 +171,12 @@ img.center {
     margin: -4px auto;
 }
 div.axis {
-    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
 }
 div.bar {
-    height: 36pt;
     line-height: 36pt;
     padding: 8pt;
     margin-top: 4pt;
@@ -137,7 +192,6 @@ div.bar {
 }
 div.text-wrapper {
     font-family: 'Jeju Gothic', 'Montserrat', sans-serif;
-    font-size: 36pt;
     line-height: 36pt;
     color: #222222;
     display: inline-block;

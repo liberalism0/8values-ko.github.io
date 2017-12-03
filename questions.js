@@ -513,7 +513,7 @@ questions = [
         }
     },
     {
-        "question": "간통은 부도덕하다.",
+        "question": "혼외관계는 부도덕하다.",
         "effect": {
             "econ": 0,
             "dipl": 0,

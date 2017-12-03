@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "상속은​ ​합법적인​ ​부의​ ​형태다.",
+        "question": "상속은 정당한 부의 형태이다.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "자국의 군사행동은 대개 자국을 보호하기 위한 것으로서 불가피하다.",
+        "question": "자국의 군사 행동은 자국을 보호하기 위해 꼭 필요하다.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "자주적​ ​국가를​ ​유지시키는​ ​것은​ ​매우​ ​중요하다.",
+        "question": "우리나라의 자주성을 유지하는 것은 중요하다.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "체계적인 국가가 최선이다.",
+        "question": "체계적인 상태가 최고이다.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -513,7 +513,7 @@ questions = [
         }
     },
     {
-        "question": "혼전성교는 비도덕하다.",
+        "question": "간통은 부도덕하다.",
         "effect": {
             "econ": 0,
             "dipl": 0,

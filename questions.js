@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "우리나라의 자주성을 유지하는 것은 중요하다.",
+        "question": "우리의 국가 주권을 유지하는 것은 중요하다.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "계급 사회가 최고이다.",
+        "question": "계급 사회가 최선이다.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "나는 단일 건강보험 체제를 지지한다.",
+        "question": "나는 단일 보험 자체제와 국민건강보험을 지지한다.",
         "effect": {
             "econ": 10,
             "dipl": 0,

@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "나는 단일국민건강보험 체제를 지지한다.",
+        "question": "나는 단일 건강보험 체제를 지지한다.",
         "effect": {
             "econ": 10,
             "dipl": 0,

@@ -47,7 +47,7 @@ questions = [
     {
         "question": "국제무역은 유익하다.",
         "effect": {
-            "econ": -5,
+            "econ": -10,
             "dipl": 0,
             "govt": 10,
             "scty": 0
@@ -209,7 +209,7 @@ questions = [
     {
         "question": "국제적인​ ​지원은​ ​돈​ ​낭비이다.",
         "effect": {
-            "econ": -5,
+            "econ": -10,
             "dipl": -10,
             "govt": 0,
             "scty": 0
@@ -577,7 +577,7 @@ questions = [
         }
     },
     {
-        "question": "가능한 모든 수단을 동원해 진보를 좇는 것은 위험하다.",
+        "question": "가능한 모든 수단을 동원해 진보를 쫓는 것은 위험하다.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -624,10 +624,10 @@ questions = [
     {
         "question": "우리 공동체의 목표를 다른 모든 공동체보다 우선시하는 것이 중요하다.",
         "effect": {
-            "econ": -10,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -10
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
         }
     }
 ];
